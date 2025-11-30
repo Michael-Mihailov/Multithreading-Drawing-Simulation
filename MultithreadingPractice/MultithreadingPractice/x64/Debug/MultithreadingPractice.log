@@ -1,0 +1,8 @@
+﻿  MultithreadingPractice.cpp
+C:\Users\micha\Desktop\Computer Organization\MultithreadingPractice\MultithreadingPractice\MultithreadingPractice.cpp(43,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\micha\Desktop\Computer Organization\MultithreadingPractice\MultithreadingPractice\MultithreadingPractice.cpp(57,32): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\micha\Desktop\Computer Organization\MultithreadingPractice\MultithreadingPractice\MultithreadingPractice.cpp(137,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\micha\Desktop\Computer Organization\MultithreadingPractice\MultithreadingPractice\MultithreadingPractice.cpp(209,33): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+C:\Users\micha\Desktop\Computer Organization\MultithreadingPractice\MultithreadingPractice\MultithreadingPractice.cpp(209,43): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+C:\Users\micha\Desktop\Computer Organization\MultithreadingPractice\MultithreadingPractice\MultithreadingPractice.cpp(209,55): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+  MultithreadingPractice.vcxproj -> C:\Users\micha\Desktop\Computer Organization\MultithreadingPractice\x64\Debug\MultithreadingPractice.exe
