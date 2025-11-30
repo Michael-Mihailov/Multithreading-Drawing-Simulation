@@ -1,6 +1,7 @@
 # Multithreading-Drawing-Simulation
 A project to practice multithreading using a graphics simulation in raylib.
 
+RAYLIB MUST BE INSTALLED FOR THE PROJECT TO FUNCTION!!!
 
 Part 1 (Colors):
 
